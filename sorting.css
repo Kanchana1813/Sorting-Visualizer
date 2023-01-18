@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(68, 60, 57);   
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+
+#newArray{
+    margin-left: 10px;
+}
+
+.sortButton{
+    margin-left: 850px;
+}
+
+#bars{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.barStyle{
+    width: 10px;
+    background-color: yellow;
+    margin: 0 2px;
+    border-radius: 2px;
+}
