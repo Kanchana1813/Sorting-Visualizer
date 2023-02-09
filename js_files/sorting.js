@@ -12,3 +12,5 @@ function sorting() {
         document.getElementById("bars").appendChild(barDiv);
     }    
 }
+
+Sorting();
